@@ -1,4 +1,31 @@
+Band Name Generator
 
+A fun Node.js app that creates random band names when you click on generate name button.
+
+
+🚀 How to Run
+
+Install dependencies:
+
+npm install
+
+
+Start the app:
+
+node index.js
+
+
+Open in your browser:
+
+http://localhost:3000
+
+🛠️ Tech Used
+
+Node.js
+
+Express.js
+
+JavaScript
 
 
 
